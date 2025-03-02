@@ -1,0 +1,27 @@
+site_name: Crypto AI Bot Documentation
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - API Reference: api.md
+  - Contributing: contributing.md
+  - Security: security.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed
+
+site_url: https://yourusername.github.io/crypto-ai-bot/
+repo_url: https://github.com/yourusername/crypto-ai-bot/
+edit_uri: edit/main/docs/
+
+plugins:
+  - search
