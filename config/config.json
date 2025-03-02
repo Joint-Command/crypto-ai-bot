@@ -1,0 +1,10 @@
+
+{
+    "wallet": "YOUR_WALLET_ADDRESS",
+    "exchange": "binance",
+    "mining_algorithm": "auto",
+    "gpu_usage": "low",
+    "trade_strategy": "momentum",
+    "stop_loss": 5,
+    "take_profit": 10
+}

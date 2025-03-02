@@ -1,0 +1,8 @@
+ccxt
+numpy
+pandas
+tensorflow
+requests
+flask
+dash
+dash-bootstrap-components
