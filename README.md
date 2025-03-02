@@ -20,7 +20,7 @@ This is an AI-powered trading and crypto mining bot that utilizes **machine lear
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/crypto-ai-bot.git
+   git clone https://github.com/rfc391/crypto-ai-bot.git
    cd crypto-ai-bot
    ```
 2. Install dependencies:
